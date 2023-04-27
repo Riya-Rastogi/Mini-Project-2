@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HOME CLEAN | SERVICES</title>
+  <title>HouseKeeperens | SERVICES</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
     <link rel = "shortcut icon" href = "../uploads/cicon.png" />
@@ -86,7 +86,7 @@
                           <div class="stat-panel-title text-uppercase">Manage User's House Activity</div>
                         </div>
                       </div>
-                      <a href="manage_house.php" class="block-anchor panel-footer text-center">Full Detail &nbsp; <i class="fa fa-arrow-right"></i></a>
+                      <!-- <a href="manage_house.php" class="block-anchor panel-footer text-center">Full Detail &nbsp; <i class="fa fa-arrow-right"></i></a> -->
                     </div>
                   </div>
 

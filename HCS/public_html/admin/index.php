@@ -21,7 +21,7 @@
     		<div id="branding">
     			<h1> 
                 <span class="highlight">ADMIN</span> |
-                 HCS
+                 HouseKeeperens
     			</h1>
     		</div>
     	</div>

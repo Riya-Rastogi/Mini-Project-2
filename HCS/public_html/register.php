@@ -4,7 +4,7 @@ include('./includes/add_register.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>HOME CLEAN | SERVICES</title>
+<title>HouseKeeperens | SERVICES</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel = "shortcut icon" href = "./uploads/cicon.png" />
@@ -33,7 +33,7 @@ include('./includes/add_register.php');
         <div id="branding">
           <h1> 
                 <span class="highlight">HOME</span> |
-                 CLEAN SERVICES
+                 HouseKeeperens
           </h1>
         </div>
       </div>
@@ -86,7 +86,7 @@ include('./includes/add_register.php');
   </div>
             <!-- contents ---->
     <footer>
-      <p>HOME CLEAN | SERVICES  &copy; 2022</p>
+      <p>HouseKeeperens | SERVICES  &copy; 2023</p>
     </footer>
 </body>
  

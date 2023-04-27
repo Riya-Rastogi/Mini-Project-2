@@ -202,10 +202,10 @@ nav.navbar.navbar-default {
 .navbar-default .navbar-nav > li > a {
     color: #fff;
 }
-.navbar-default .navbar-nav  > .active.open > a:focus {
+/* .navbar-default .navbar-nav  > .active.open > a:focus {
     background: #0a9dbd;
     color: #fff;
-}
+} */
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #fff;
 }

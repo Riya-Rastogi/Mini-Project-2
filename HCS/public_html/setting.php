@@ -5,13 +5,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HOME CLEAN | SERVICES</title>
+  <title>HouseKeeperens | SERVICES</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
     <link rel = "shortcut icon" href = "./uploads/cicon.png" />
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
-    <link href="./font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
+    <!-- <link href="./font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet"> -->
+    <!-- <link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet"> -->
     <link href="//fonts.googleapis.com/css?family=Federo" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
     <link rel="stylesheet" href="./css/style6.css">

@@ -92,7 +92,7 @@
                                                <th>Phone</th>
                                                 <th>Address</th>
                                                 <th>Account</th>
-                      <th>Action</th> 
+                      <!-- <th>Action</th>  -->
                     </tr>
                   </thead>
                   
@@ -124,8 +124,8 @@
                                             </td>
                                         </td>
                                    <td>
-                 <a href="#" disabled="disabled" >&nbsp; <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;
-                <a href="userlist.php" onclick="return confirm('Do you want to Delete');"><i class="fa fa-trash" style="color:red"></i></a>&nbsp;&nbsp;
+                 <!-- <a href="#" disabled="disabled" >&nbsp; <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;
+                <a href="userlist.php" onclick="return confirm('Do you want to Delete');"><i class="fa fa-trash" style="color:red"></i></a>&nbsp;&nbsp; -->
                  </td>
                     </tr>
                     

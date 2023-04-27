@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>HOME CLEAN SERVICES</title>
+	<title>HouseKeeperens</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
     <link rel = "shortcut icon" href = "./uploads/cicon.png" /> 
@@ -47,7 +47,7 @@
 
  <div class="panel panel-default">
   <a href="#addnew" data-toggle="modal" class="btn btn-primary btn-sm" style = "float:right; margin-right:100px; margin-top: 3px;"><span class="glyphicon glyphicon-plus"></span> Add New</a> 
-    <div class="panel-heading"><center><font color="green"><b>DAILY HOME TASKS</b></font></center>
+    <div class="panel-heading"><center><font color="green"><b>DAILY TASKS</b></font></center>
       </div>
 
     <div class="panel-body">
@@ -86,7 +86,7 @@
        console.log(this.dtime);
   
        $('#message').html('');
-       if(confirm("Are you Sure you want to change status of this User?"))
+       if(confirm("Are you Sure you want to change status of this Task?"))
        {
         $.ajax({
          url:'action.php',

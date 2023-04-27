@@ -61,7 +61,7 @@
               <td><?php echo $fetch['user_no']?></td>
               <td><?php echo $fetch['name']?></td>
               <td><center><a href = "process.php?id=<?php echo $fetch['user_no']?>&name=<?php echo $fetch['name']?>" class = "btn btn-sm btn-info">Process <span class = "badge"><?php echo $f['total']?></span></a>
-                <a href = "#" class = "btn btn-sm btn-warning"><span class = "glyphicon glyphicon-pencil"></span> Update</a>
+                <!-- <a href = "#" class = "btn btn-sm btn-warning"><span class = "glyphicon glyphicon-pencil"></span> Update</a> -->
              
             </center></td>
             </tr>

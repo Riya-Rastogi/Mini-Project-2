@@ -577,7 +577,7 @@ li {
 }
 .brand .ts-profile-nav {
   float: right;
-  display: none;
+  /* display: none; */
 }
 .brand .ts-profile-nav li {
   float: left;
@@ -605,10 +605,10 @@ li {
 .brand .ts-profile-nav .ts-account .fa-angle-down {
   float: right;
 }
-.brand .ts-profile-nav .ts-account > a {
+/* .brand .ts-profile-nav .ts-account > a {
   width: 180px;
   background: #37a6c4;
-}
+} */
 .brand .ts-profile-nav .ts-account .ts-avatar {
   border-radius: 50%;
   height: 28px;

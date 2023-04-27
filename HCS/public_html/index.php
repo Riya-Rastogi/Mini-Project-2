@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>HOME CLEAN | SERVICES</title>
+<title>HouseKeeperens | SERVICES</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Resort Inn Responsive , Smartphone Compatible web template , Samsung, LG, Sony Ericsson, Motorola web design" />
@@ -42,8 +42,8 @@
         </nav>
     		<div id="branding">
     			<h1> 
-                <span class="highlight">HOME</span> |
-                 CLEAN SERVICES
+                <span class="highlight">HouseKeeperens</span> |
+                 HOME
     			</h1>
     		</div>
     		
@@ -121,7 +121,7 @@
    <!---- ----->
      <section id="newsletter">
     	<div class="container">
-    	 <center>	<h3>ABOUT HOME ACTIVITY TASKING SERVICES</h3></center>
+    	 <center>	<h3>ABOUT US</h3></center>
     		<!--<form>
     			<input type="email" placeholder="Enter Email...">
     			<button type="submit" class="button_1">Subscribe</button>
@@ -132,32 +132,32 @@
      <section id="boxes">
     	<div class="container" >
     		<div class="box">
-    			<img src="./uploads/cicon.png">
+    			<img src="./uploads/images.png.png">
           <br/>
-    			<h3>TIME MANAGEMENT TASKING</h3>
+    			<h3>TIME MANAGEMENT </h3>
           <br/>
-    			<p>You make a marking tool for a list plan for home cleaning every single time.</p>
+    			<p>Scheduling.Prioritization.Time tracking.Team coordination.Communication</p>
     		</div>
     		<div class="box">
-    			<img src="./uploads/504652.png">
+    			<img src="./uploads/img3.jpg">
           <br/>
-    			<h3>HOME ASSIGMENT PLAN </h3>
+    			<h3>PRIORITIZATION </h3>
           <br/>
-    			<p>Make an listing  of home activity task  and review of assign task that every single time</p>
+    			<p>First come first serve is the basic principle. Daily basis review of the given tasks</p>
     		</div>
     		<div class="box">
-    			<img src="./uploads/images.png">
+    			<img src="./uploads/img4.jpg">
           <br/>
-    			<h3>HOME MANAGING</h3>
+    			<h3>SERVICES</h3>
           <br/>
-    			<p>You make managing of cleaning a house based on your task</p>
+    			<p>involve providing user-friendly interfaces, helpful resources, and responsive customer support.</p>
     		</div>
     	</div>
     </section>
   </div>
    
     <footer>
-    	<p>HOME CLEAN | SERVICES  &copy; 2022</p>
+    	<p>HouseKeeperens | SERVICES  &copy; 2023</p>
     </footer>
 </body>
 <!-- js -->

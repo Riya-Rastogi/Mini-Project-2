@@ -1,7 +1,7 @@
 
 <div class="brand clearfix">
  <div class = "navbar navbar-default navbar-fixed-top" style="background-color:#0082e6;">	
-<label class = "navbar-brand"  style="font-size: 26px;">  <font color="white"> Home Clean |</font> <font color="#ffce14">  Services</font>
+<label class = "navbar-brand"  style="font-size: 26px;">  <font color="white"> HouseKeeperens |</font> <font color="#ffce14">  Services</font>
     </label> 
     </label>
     <center>
@@ -23,11 +23,11 @@
 <ul class="ts-profile-nav">
 		<li class="ts-account">
            <a href="#">
-           	<center><span class = "glyphicon glyphicon-cog"></span></center>
+           	<!-- <center><span class = "glyphicon glyphicon-cog"></span></center> -->
            	<i class="fa fa-angle-down hidden-side"></i></a>
 				<ul>
-					<li><a href = "setting.php">Change Password</a></li>
-					<li><a href="#"><span></span></a></li>
+					<!-- <li><a href = "setting.php">Change Password</a></li>
+					<li><a href="#"><span></span></a></li> -->
 				</ul>
 				</a>
 			</li>
